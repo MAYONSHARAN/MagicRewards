@@ -1,0 +1,9 @@
+name: MagicRewards
+main: com.may0n.magicrewards.Main
+author: May0n
+version: 1.1
+api-version: 1.20
+commands:
+  rewards:
+    description: Opens the daily reward GUI
+    aliases: [drewards, daily, dailyrewards, dailyr]

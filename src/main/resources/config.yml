@@ -1,0 +1,15 @@
+prefix: "&7[ &5&lMagicRewards &7]"
+
+messages:
+  claimed: "{prefix} &fYou have successfully claimed your &c{type} &freward!"
+
+rewards:
+  daily:
+    commands:
+      - "give {player} diamond 1"
+  weekly:
+    commands:
+      - "give {player} emerald 3"
+  monthly:
+    commands:
+      - "give {player} nether_star 1"
